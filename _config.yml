@@ -16,7 +16,7 @@ darkmode: false
 # about_title: About Me
 about_profile_image: images/raluca-scona-pic.jpeg
 about_content: | # this will include new lines to allow paragraphs
- I am a Dyson Research Fellow.
+I am a postdoc at the <a href="https://www.imperial.ac.uk/dyson-robotics-lab/research/" target="_blank">Dyson Robotics Lab</a> with Prof. Andrew Davison working on novel methods for real-time 3D motion estimation applied to specialised hardware. I did my PhD at the <a href="https://www.edinburgh-robotics.org/" target="_blank">Edinburgh Center for Robotics</a> where I worked on visual SLAM applied to humanoid robots using sensor fusion and handling dynamic environments in visual SLAM by leveraging motion segmentation. My research interests are in real-time 3D perception methods which can robustly operate on mobile robotic platforms in real world conditions.
 
 # Footer
 footer_show_references: false
