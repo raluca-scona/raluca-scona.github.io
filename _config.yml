@@ -43,7 +43,6 @@ more_content: | # this will include new lines to allow paragraphs
 # Publications Section
 projects_title: Publications
 projects_content: | # this will include new lines to allow paragraphs
-   Some text here
 
   <font size="4"><b>Conferences</b></font>
 
