@@ -38,13 +38,14 @@ more_content: | # this will include new lines to allow paragraphs
 # Publications Section
 projects_title: Publications
 projects_content: | # this will include new lines to allow paragraphs
+
   <font size="4"><b>Conferences</b></font>
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: raluca-scona/modern-resume-theme
 
 sass:
   sass_dir: _sass
