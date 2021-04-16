@@ -30,15 +30,18 @@ more_content: | # this will include new lines to allow paragraphs
 
   <tr>
       <td style="width:125px;text-align-last:justify;padding-right:5px"><ul style="margin-bottom:0"><li><b>Feb. 2021:</b></li></ul></td>
-      <td>Our paper <a href="docs/conference-papers/2021_icra_underwater_slam.pdf" target="_blank">Robust Underwater Visual SLAM Fusing Acoustic Sensing</a> was accepted to <a href="http://www.icra2021.org/" target="_blank">ICRA 2021</a> in Xi’an, China.</td>
+      <td>Our paper Robust Underwater Visual SLAM Fusing Acoustic Sensing was accepted to ICRA 2021 in Xi’an, China.</td>
   </tr>
 
   </table>
 
+# Publications Section
+projects_title: Publications
+projects_content: | # this will include new lines to allow paragraphs
+  <font size="4"><b>Conferences</b></font>
 
 # Footer
-footer_show_references: false
-# references_title: References on request (Override references text)
+footer_show_references: true
 
 # Build settings
 remote_theme: sproogen/resume-theme
