@@ -14,7 +14,7 @@ darkmode: false
 
 # About Section
 # about_title: About Me
-about_profile_image: images/raluca-scona-pic.jpg
+about_profile_image: images/raluca-scona-pic.jpeg
 about_content: | # this will include new lines to allow paragraphs
  I am a Dyson Research Fellow.
 
