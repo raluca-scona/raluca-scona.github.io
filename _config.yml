@@ -46,14 +46,14 @@ projects_content: | # this will include new lines to allow paragraphs
 
   <font size="4"><b>Conferences</b></font>
 
-  - <a href="https://scholar.google.com.co/citations?user=SyDXC-MAAAAJ&hl=en" target="_blank">E. Vargas</a>, **R. Scona**,
+  - <a href="https://scholar.google.com.co/citations?user=SyDXC-MAAAAJ&hl=en" target="_blank">* E. Vargas</a>,* **R. Scona**,
     <a href="https://www.linkedin.com/in/jonatan-scharff-willners" target="_blank">J. Scharff Wilners</a>, 
     <a href="https://scholar.google.com/citations?user=lwHwxdUAAAAJ&hl=en&oi=ao" target="_blank">T. Luczynski</a>, 
     <a href="https://www.tsaoyu.com/" target="_blank">Y. Cao</a>, 
     <a href="https://researchportal.hw.ac.uk/en/persons/sen-wang" target="_blank">S. Wang</a>, 
     <a href="https://researchportal.hw.ac.uk/en/persons/yvan-petillot" target="_blank">Y. Petillot</a>, 
     Robust Underwater Visual SLAM Fusing Acoustic Sensing, in International Conference on Robotics and Automation **(ICRA)**, 
-    Xi'an, China, June 2021. 
+    Xi'an, China, June 2021. * - equal contribution
     <a href="docs/conference-papers/2021_icra_underwater_slam.pdf" target="_blank">[pdf]</a>
     <a href="https://www.youtube.com/watch?v=1V77WicHVCk&ab_channel=ElizabethVargas" target="_blank">[video]</a>
 
