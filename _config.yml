@@ -18,6 +18,10 @@ about_profile_image: images/raluca-scona-pic.jpeg
 about_content: | # this will include new lines to allow paragraphs
  I am a Dyson Research Fellow.
 
+# Footer
+footer_show_references: false
+# references_title: References on request (Override references text)
+
 # Build settings
 remote_theme: sproogen/resume-theme
 
