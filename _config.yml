@@ -53,9 +53,9 @@ projects_content: | # this will include new lines to allow paragraphs
     <a href="https://researchportal.hw.ac.uk/en/persons/sen-wang" target="_blank">S. Wang</a>, 
     <a href="https://researchportal.hw.ac.uk/en/persons/yvan-petillot" target="_blank">Y. Petillot</a>, 
     Robust Underwater Visual SLAM Fusing Acoustic Sensing, in International Conference on Robotics and Automation **(ICRA)**, 
-    Xi'an, China, June 2021. * -- equal contribution
+    Xi'an, China, June 2021. 
     <a href="docs/conference-papers/2021_icra_underwater_slam.pdf" target="_blank">[pdf]</a>
-    <a href="https://www.youtube.com/watch?v=1V77WicHVCk&ab_channel=ElizabethVargas" target="_blank">[video]</a>
+    <a href="https://www.youtube.com/watch?v=1V77WicHVCk&ab_channel=ElizabethVargas" target="_blank">[video]</a> (* -- equal contribution)
 
 # Footer
 footer_show_references: true
