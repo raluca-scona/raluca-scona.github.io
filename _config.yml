@@ -74,8 +74,7 @@ projects_content: | # this will include new lines to allow paragraphs
     <a href="https://youtu.be/dv0ADFQkU3E" target="_blank">[video]</a><br>
 
   - <a href="https://scholar.google.com/citations?user=DHxqC3QAAAAJ&hl=en&oi=ao" target="_blank">S. Nobili</a>, 
-    **R. Scona**,    
-    M. Caravagna</a>, 
+    **R. Scona**, M. Caravagna, 
     <a href="https://ori.ox.ac.uk/people/maurice-fallon/" target="_blank">M. Fallon</a>, 
     Overlap-based ICP Tuning for Robust Localization of a Humanoid Robot. <i>International Conference on Robotics and Automation (ICRA)</i>, 2017. 
     <a href="https://eng.ox.ac.uk/media/5612/2017icra_nobili.pdf" target="_blank">[pdf]</a>
