@@ -91,6 +91,11 @@ projects_content: | # this will include new lines to allow paragraphs
     <a href="https://eng.ox.ac.uk/media/5612/2017icra_nobili.pdf" target="_blank">[pdf]</a>
     <a href="https://youtu.be/IPqi5mnEiMA" target="_blank">[video]</a><br>
 
+  <font size="4"><b>PhD Thesis</b></font>
+
+  - **R. Scona**. Robust Dense Visual SLAM Fusing Sensor Fusion and Motion Segmentation. <i>PhD Thesis, Heriot-Watt University and The University of Edinburgh</i>, 2020. 
+    <a href="docs/thesis/Raluca_Scona_PhD_Thesis.pdf" target="_blank">[pdf]</a>
+
 # Footer
 footer_show_references: true
 references_title: Resume available on request 
