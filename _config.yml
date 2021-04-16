@@ -41,8 +41,9 @@ more_content: | # this will include new lines to allow paragraphs
   </table>
 
 # Publications Section
-more_title: Publications
-more_content: | # this will include new lines to allow paragraphs
+projects_title: Publications
+projects_content: | # this will include new lines to allow paragraphs
+   Some text here
 
   <font size="4"><b>Conferences</b></font>
 
