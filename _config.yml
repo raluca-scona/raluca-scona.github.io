@@ -56,6 +56,17 @@ projects_content: | # this will include new lines to allow paragraphs
     <a href="docs/conference-papers/2021_icra_underwater_slam.pdf" target="_blank">[pdf]</a>
     <a href="https://www.youtube.com/watch?v=1V77WicHVCk&ab_channel=ElizabethVargas" target="_blank">[video]</a> (* denotes equal contribution)<br>
 
+  - <a href="https://www.imperial.ac.uk/dyson-robotics-lab/group-members/" target="_blank">Z. Landgraf</a>,
+    **R. Scona**,  
+    <a href="https://scholar.google.com/citations?user=bmOi48IAAAAJ&hl=en&oi=sra" target="_blank">T. Laidlow</a>, 
+    <a href="https://scholar.google.com/citations?user=OXtG-isAAAAJ&hl=en&oi=sra" target="_blank">S. James</a>, 
+    <a href="https://www.professoren.tum.de/en/leutenegger-stefan" target="_blank">S. Leutenegger</a>, 
+    <a href="https://www.doc.ic.ac.uk/~ajd/" target="_blank">A. Davison</a>, 
+    SIMstack: A Generative Shape and Instance Model for Unordered Object Stacks. <i>arXiv</i>, 2021.
+    <a href="https://arxiv.org/abs/2103.16442" target="_blank">[pdf]</a>
+    <a href="https://youtu.be/6IruTME-EXM" target="_blank">[video]</a> 
+    <a href="https://zoelandgraf.github.io/SIMstack/" target="_blank">[website]</a><br>
+
   - **R. Scona**,
     <a href="https://scholar.google.com/citations?user=DkwXeS4AAAAJ&hl=en&oi=sra" target="_blank">M. Jaimez</a>, 
     <a href="https://researchportal.hw.ac.uk/en/persons/yvan-petillot" target="_blank">Y. Petillot</a>, 
