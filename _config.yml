@@ -24,46 +24,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       - <b>Feb. 2021:</b> Our paper <a href="docs/conference-papers/2021_icra_underwater_slam.pdf" target="_blank">Robust Underwater Visual SLAM Fusing Acoustic Sensing</a> was accepted to <a href="http://www.icra2021.org/" target="_blank">ICRA 2021</a> in Xi’an, China.
 
-<!--
-# News Section
-more_title: News
-more_content: | # this will include new lines to allow paragraphs
-  <table>
 
-  <tr>
-      <td style="width:125px;text-align-last:justify;padding-right:5px"><ul style="margin-bottom:0"><li><b>Feb. 2021:</b></li></ul></td>
-      <td>Our paper <a href="docs/conference-papers/2021_icra_underwater_slam.pdf" target="_blank">Robust Underwater Visual SLAM Fusing Acoustic Sensing</a> was accepted to <a href="http://www.icra2021.org/" target="_blank">ICRA 2021</a> in Xi’an, China.</td>
-  </tr>
-
-  <tr>
-      <td style="width:125px;text-align-last:justify;padding-right:5px"><ul style="margin-bottom:0"><li><b>Mar. 2020:</b></li></ul></td>
-      <td>I joined the <a href="https://www.imperial.ac.uk/dyson-robotics-lab/research/" target="_blank">Dyson Robotics Lab</a> as a postdoc with Prof. Andrew Davison to continue working on real-time 3D perception methods.</td>
-  </tr>
-
-  <tr>
-      <td style="width:125px;text-align-last:justify;padding-right:5px"><ul style="margin-bottom:0"><li><b>Feb. 2020:</b></li></ul></td>
-      <td>I defended my PhD thesis, <a href="docs/thesis/Raluca_Scona_PhD_Thesis.pdf" target="_blank">Robust Dense Visual SLAM Using Sensor Fusion and Motion Segmentation</a>. Thank you to examiners: <a href="https://www.professoren.tum.de/en/leutenegger-stefan" target="_blank">Stefan Leutenegger</a> (Technical University of Munich) and <a href="https://scholar.google.co.uk/citations?user=vkY0jxEAAAAJ&hl=en" target="_blank">Sen Wang</a> (Heriot-Watt University).</td>
-  </tr>
-
-  </table>
-
-# Publications Section
-projects_title: Publications
-projects_content: | # this will include new lines to allow paragraphs
-
-  <font size="4"><b>Conferences</b></font>
-
-  - <a href="https://scholar.google.com.co/citations?user=SyDXC-MAAAAJ&hl=en" target="_blank">E. Vargas</a>, **R. Scona**,
-    <a href="https://www.linkedin.com/in/jonatan-scharff-willners" target="_blank">J. Scharff Wilners</a>, 
-    <a href="https://scholar.google.com/citations?user=lwHwxdUAAAAJ&hl=en&oi=ao" target="_blank">T. Luczynski</a>, 
-    <a href="https://www.tsaoyu.com/" target="_blank">Y. Cao</a>, 
-    <a href="https://researchportal.hw.ac.uk/en/persons/sen-wang" target="_blank">S. Wang</a>, 
-    <a href="https://researchportal.hw.ac.uk/en/persons/yvan-petillot" target="_blank">Y. Petillot</a>, 
-    Robust Underwater Visual SLAM Fusing Acoustic Sensing, in International Conference on Robotics and Automation **(ICRA)**, 
-    Xi'an, China, June 2021. 
-    <a href="docs/conference-papers/2021_icra_underwater_slam.pdf" target="_blank">[pdf]</a>
-    <a href="https://www.youtube.com/watch?v=1V77WicHVCk&ab_channel=ElizabethVargas" target="_blank">[video]</a>
---!>
 # Footer
 footer_show_references: true
 references_title: Resume available on request 
