@@ -63,7 +63,15 @@ projects_content: | # this will include new lines to allow paragraphs
     <a href="https://vision.in.tum.de/members/cremers" target="_blank">D. Cremers</a>, 
     StaticFusion: Background Reconstruction for Dense RGB-D SLAM in Dynamic Environments. <i>International Conference on Robotics and Automation (ICRA)</i>, 2018. 
     <a href="docs/conference-papers/2018_icra_staticfusion.pdf" target="_blank">[pdf]</a>
-    <a href="https://youtu.be/UVsqIgxHoBM" target="_blank">[video]</a>
+    <a href="https://youtu.be/UVsqIgxHoBM" target="_blank">[video]</a><br>
+
+  - **R. Scona**,
+    <a href="https://scholar.google.com/citations?user=DHxqC3QAAAAJ&hl=en&oi=ao" target="_blank">S. Nobili</a>, 
+    <a href="https://researchportal.hw.ac.uk/en/persons/yvan-petillot" target="_blank">Y. Petillot</a>, 
+    <a href="https://ori.ox.ac.uk/people/maurice-fallon/" target="_blank">M. Fallon</a>, 
+    Direct Visual SLAM Fusing Proprioception for a Humanoid Robot. <i>International Conference on Intelligent Robots and Systems (IROS)</i>, 2017. 
+    <a href="docs/conference-papers/2017_iros_humanoid.pdf" target="_blank">[pdf]</a>
+    <a href="https://youtu.be/dv0ADFQkU3E" target="_blank">[video]</a><br>
 
 # Footer
 footer_show_references: true
